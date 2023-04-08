@@ -1,0 +1,15 @@
+C:\Users\Edilson\Desktop\Ap1 C#\AgenciaBancaria\AgenciaBancaria\bin\Debug\net7.0\AgenciaBancaria.exe
+C:\Users\Edilson\Desktop\Ap1 C#\AgenciaBancaria\AgenciaBancaria\bin\Debug\net7.0\AgenciaBancaria.deps.json
+C:\Users\Edilson\Desktop\Ap1 C#\AgenciaBancaria\AgenciaBancaria\bin\Debug\net7.0\AgenciaBancaria.runtimeconfig.json
+C:\Users\Edilson\Desktop\Ap1 C#\AgenciaBancaria\AgenciaBancaria\bin\Debug\net7.0\AgenciaBancaria.dll
+C:\Users\Edilson\Desktop\Ap1 C#\AgenciaBancaria\AgenciaBancaria\bin\Debug\net7.0\AgenciaBancaria.pdb
+C:\Users\Edilson\Desktop\Ap1 C#\AgenciaBancaria\AgenciaBancaria\obj\Debug\net7.0\AgenciaBancaria.csproj.AssemblyReference.cache
+C:\Users\Edilson\Desktop\Ap1 C#\AgenciaBancaria\AgenciaBancaria\obj\Debug\net7.0\AgenciaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edilson\Desktop\Ap1 C#\AgenciaBancaria\AgenciaBancaria\obj\Debug\net7.0\AgenciaBancaria.AssemblyInfoInputs.cache
+C:\Users\Edilson\Desktop\Ap1 C#\AgenciaBancaria\AgenciaBancaria\obj\Debug\net7.0\AgenciaBancaria.AssemblyInfo.cs
+C:\Users\Edilson\Desktop\Ap1 C#\AgenciaBancaria\AgenciaBancaria\obj\Debug\net7.0\AgenciaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Edilson\Desktop\Ap1 C#\AgenciaBancaria\AgenciaBancaria\obj\Debug\net7.0\AgenciaBancaria.dll
+C:\Users\Edilson\Desktop\Ap1 C#\AgenciaBancaria\AgenciaBancaria\obj\Debug\net7.0\refint\AgenciaBancaria.dll
+C:\Users\Edilson\Desktop\Ap1 C#\AgenciaBancaria\AgenciaBancaria\obj\Debug\net7.0\AgenciaBancaria.pdb
+C:\Users\Edilson\Desktop\Ap1 C#\AgenciaBancaria\AgenciaBancaria\obj\Debug\net7.0\AgenciaBancaria.genruntimeconfig.cache
+C:\Users\Edilson\Desktop\Ap1 C#\AgenciaBancaria\AgenciaBancaria\obj\Debug\net7.0\ref\AgenciaBancaria.dll
